@@ -1,0 +1,19 @@
+.navbar{
+  position: sticky;
+  top:0;
+  z-index: 5;
+  .container-fluid{
+   .img-container{
+    img{
+     height: 60px;
+     width: auto;
+    }
+   }
+  }
+  .nav-item{
+    .nav-link{
+      color: #000;
+      font-size: 25px;
+    }
+  }
+ }

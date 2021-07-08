@@ -1,0 +1,10 @@
+@import 'config';
+
+body{
+ @import 'navbar';
+ @import 'slider';
+ @import 'allsongs';
+ @import 'about';
+ @import 'contact';
+}
+@import 'mediaqueries';

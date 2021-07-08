@@ -1,0 +1,56 @@
+@media (min-width:1000px){
+ #all-songs{
+  grid-template-columns: 50% 50%;
+  font-size: 28px;
+ }
+ #about{
+    grid-template-columns: 50% 50%;
+    .container-img-about{
+     display: flex;
+     padding: 150px;
+    }
+    .container-paragraph-about{
+     padding: 100px;
+     p{
+      font-size: 20px;
+     }
+    }
+ }
+}
+@media (max-width:1000px){
+ #all-songs{
+  grid-template-columns: auto;
+  h4{
+   font-size: 30px;
+  }
+ }
+ #about{
+  grid-template-columns: 100%;
+    .container-img-about{
+     display: none;
+    }
+    .container-paragraph-about{
+     padding: 50px;
+     p{
+      font-size: 25px;
+     }
+    }
+ }
+}
+
+@media (max-width:550px){
+ .navbar{
+  .container-fluid{
+   display: grid !important;
+   grid-template-rows: auto auto !important; 
+   align-items:center !important;
+   justify-content: center !important;
+  }
+ }
+  #all-songs{
+  grid-template-columns: auto;
+  h4{
+   font-size: 20px;
+  }
+ }
+}

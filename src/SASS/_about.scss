@@ -1,0 +1,14 @@
+#about{
+ display: grid;
+ padding-top: 60px;
+ width: 100vw;
+ background: linear-gradient(62deg ,#000,#111);
+ .container-paragraph-about{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  p{
+   color: #fff;
+  }
+ }
+}
