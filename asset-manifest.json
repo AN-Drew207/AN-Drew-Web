@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AN-Drew-Web/static/css/main.ac5f7590.chunk.css",
-    "main.js": "/AN-Drew-Web/static/js/main.0cdcdcbd.chunk.js",
-    "main.js.map": "/AN-Drew-Web/static/js/main.0cdcdcbd.chunk.js.map",
+    "main.js": "/AN-Drew-Web/static/js/main.1c8d27b5.chunk.js",
+    "main.js.map": "/AN-Drew-Web/static/js/main.1c8d27b5.chunk.js.map",
     "runtime-main.js": "/AN-Drew-Web/static/js/runtime-main.9342f4eb.js",
     "runtime-main.js.map": "/AN-Drew-Web/static/js/runtime-main.9342f4eb.js.map",
     "static/css/2.4be38407.chunk.css": "/AN-Drew-Web/static/css/2.4be38407.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.9d913a7e.chunk.js",
     "static/css/main.ac5f7590.chunk.css",
-    "static/js/main.0cdcdcbd.chunk.js"
+    "static/js/main.1c8d27b5.chunk.js"
   ]
 }
