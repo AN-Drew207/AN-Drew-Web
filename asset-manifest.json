@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/AN-Drew-Web/static/css/main.4658a426.chunk.css",
-    "main.js": "/AN-Drew-Web/static/js/main.c7f2c9fb.chunk.js",
-    "main.js.map": "/AN-Drew-Web/static/js/main.c7f2c9fb.chunk.js.map",
+    "main.css": "/AN-Drew-Web/static/css/main.e68bb439.chunk.css",
+    "main.js": "/AN-Drew-Web/static/js/main.2e6b63b6.chunk.js",
+    "main.js.map": "/AN-Drew-Web/static/js/main.2e6b63b6.chunk.js.map",
     "runtime-main.js": "/AN-Drew-Web/static/js/runtime-main.9342f4eb.js",
     "runtime-main.js.map": "/AN-Drew-Web/static/js/runtime-main.9342f4eb.js.map",
     "static/css/2.4be38407.chunk.css": "/AN-Drew-Web/static/css/2.4be38407.chunk.css",
-    "static/js/2.52ecbe43.chunk.js": "/AN-Drew-Web/static/js/2.52ecbe43.chunk.js",
-    "static/js/2.52ecbe43.chunk.js.map": "/AN-Drew-Web/static/js/2.52ecbe43.chunk.js.map",
+    "static/js/2.9d913a7e.chunk.js": "/AN-Drew-Web/static/js/2.9d913a7e.chunk.js",
+    "static/js/2.9d913a7e.chunk.js.map": "/AN-Drew-Web/static/js/2.9d913a7e.chunk.js.map",
     "index.html": "/AN-Drew-Web/index.html",
     "static/css/2.4be38407.chunk.css.map": "/AN-Drew-Web/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.4658a426.chunk.css.map": "/AN-Drew-Web/static/css/main.4658a426.chunk.css.map",
-    "static/js/2.52ecbe43.chunk.js.LICENSE.txt": "/AN-Drew-Web/static/js/2.52ecbe43.chunk.js.LICENSE.txt",
-    "static/media/Tu eresmin.5af0b46d.jpg": "/AN-Drew-Web/static/media/Tu eresmin.5af0b46d.jpg",
+    "static/css/main.e68bb439.chunk.css.map": "/AN-Drew-Web/static/css/main.e68bb439.chunk.css.map",
+    "static/js/2.9d913a7e.chunk.js.LICENSE.txt": "/AN-Drew-Web/static/js/2.9d913a7e.chunk.js.LICENSE.txt",
+    "static/media/MIN_demasiado.8fed8644.jpg": "/AN-Drew-Web/static/media/MIN_demasiado.8fed8644.jpg",
+    "static/media/fakeyoumin.2a2134a1.jpg": "/AN-Drew-Web/static/media/fakeyoumin.2a2134a1.jpg",
     "static/media/logowhite.8b2d708a.png": "/AN-Drew-Web/static/media/logowhite.8b2d708a.png",
-    "static/media/maxresdefault.add5e288.jpg": "/AN-Drew-Web/static/media/maxresdefault.add5e288.jpg",
     "static/media/mini-muestra.13a4b91f.jpg": "/AN-Drew-Web/static/media/mini-muestra.13a4b91f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9342f4eb.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.52ecbe43.chunk.js",
-    "static/css/main.4658a426.chunk.css",
-    "static/js/main.c7f2c9fb.chunk.js"
+    "static/js/2.9d913a7e.chunk.js",
+    "static/css/main.e68bb439.chunk.css",
+    "static/js/main.2e6b63b6.chunk.js"
   ]
 }
