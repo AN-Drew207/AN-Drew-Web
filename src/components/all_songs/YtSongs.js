@@ -5,6 +5,10 @@ import ytlogo from '../../img/YTpng.png'
 const YtSongs=()=>{
  const [songs]=useState([
   {
+    link:"https://www.youtube.com/watch?v=y0Bcv2Hfxxk",
+    title:"Demasiado (Freestyle) | AN-Drew [Edit by Gextelo]"
+  },
+  {
    link:"https://www.youtube.com/watch?v=kowwCmdERm0",
    title:"Fake You | AN-Drew ft StoikoMC [Prod by Gextelo]"
   },

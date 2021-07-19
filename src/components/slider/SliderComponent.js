@@ -1,9 +1,9 @@
 import React from 'react';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import SliderElement from './SliderElement';
-import firstImage from '../../img/mini-muestra.jpg'
-import secondImage from '../../img/maxresdefault.jpg'
-import thirdImage from '../../img/Tu eresmin.jpg'
+import firstImage from '../../img/MIN_demasiado.jpg'
+import secondImage from '../../img/fakeyoumin.jpg'
+import thirdImage from '../../img/mini-muestra.jpg'
 
 
 const SliderComponent= () =>{
@@ -38,15 +38,15 @@ const SliderComponent= () =>{
             <SliderElement
              img={firstImage}
              link="https://www.youtube.com/watch?v=4Ficg57RjjE"
-             title="Muestra | AN-Drew [Prod. by Gex]"
+             title="Demasiado (Freestyle) | AN-Drew [Edit by Gextelo]"
              class="text-decoration-none text-white"
             />
           </div>
           <div class="carousel-item">
             <SliderElement
              img={secondImage}
-             link="https://www.youtube.com/watch?v=T22DUcluL_0"
-             title="Hipocresia de las Masas|AN-Drew [Prod by Gex]"
+             link="https://www.youtube.com/watch?v=kowwCmdERm0"
+             title="Fake You | AN-Drew ft StoikoMC [Prod by Gextelo]"
              class="text-decoration-none text-warning"
             />
           </div>
@@ -54,7 +54,7 @@ const SliderComponent= () =>{
             <SliderElement
              img={thirdImage}
              link="https://www.youtube.com/watch?v=6C41M_NkqWE"
-             title="Tu eres|AN-Drew [Prod. by Gex & UntalMarioo]"
+             title="Muestra | AN-Drew [Prod. by Gex]"
              class="text-decoration-none text-dark"
             />
           </div>
